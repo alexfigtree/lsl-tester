@@ -1,0 +1,16 @@
+{
+  "name": "lsl-tester",
+  "version": "0.1.0",
+  "description": "Tester for LibLSL bindings for Node.js",
+  "main": "index.js",
+  "author": "Alex Higuera",
+  "license": "MIT",
+  "dependencies": {
+    "node-lsl": "^0.1.0"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "node-lsl": "^0.1.0"
+  },
+  "files": "index.js"
+}
